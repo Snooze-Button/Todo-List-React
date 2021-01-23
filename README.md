@@ -1,3 +1,6 @@
-# Flappy-Bird-Clone Game
+# Simple ToDo List created using React
 
-each time bird is hit , rotate screen. 
+##Features
+*Enter Todos 
+*Save Todos in local Storage
+*Select Todos to delete
