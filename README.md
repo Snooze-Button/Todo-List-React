@@ -3,4 +3,5 @@
 ## Features
 ### *Enter Todos 
 ### *Save Todos in local Storage
-### *Select Todos to delete
+### *Select Todos
+### *Delete Todos
